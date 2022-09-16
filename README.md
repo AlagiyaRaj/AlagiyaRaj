@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlagiyaRaj
-- 👀 I’m interested in Angular Js
-- 🌱 I’m studying in silvern oak college of engineering and technology.
+- 👀 I’m interested in React Js
+- 🌱 I’m studying in silver oak college of engineering and technology.
 -  I’m currently learning Html,css and javascript.
 
 <!---
