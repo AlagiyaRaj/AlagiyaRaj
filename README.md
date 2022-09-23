@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlagiyaRaj
-- 👀 I’m Interested in React Js
+- 👀 I’m Interested in React Js.
 - 🌱 I’m Studying in Silver Oak College Of engineering And Technology.
 -  I’m Currently Learning HTML,CSS and JAVASCRIPT.
 
