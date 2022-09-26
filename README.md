@@ -3,6 +3,8 @@
 - 🌱 I’m Studying in Silver Oak College Of engineering And Technology.
 -  I’m Currently Learning HTML,CSS and JAVASCRIPT. 
 
+<img src="https://github-readme-stats.vercel.app/api?username=AlagiyaRaj&show_icons=true&hide_border=true)&nbsp;&nbsp">
+
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlagiyaRaj&layout=compact&langs_count=8&hide_border=true"> 
 
 <!---
